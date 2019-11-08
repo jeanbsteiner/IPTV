@@ -1,0 +1,208 @@
+#EXTM3U 
+
+#EXTINF:0,A&E HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_0ce694e63ca38e4f45a37cd62892172af4ebeb62/playlist.m3u8
+
+#EXTINF:0,A&E 
+http://198.144.154.180:10880/live/pt_PwsKRjIegyASUaYBiH3ou5LT_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_TJlGd20Jn6Yz&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=e7fc9e18a94cf83e167bd7634932ff66
+
+#EXTINF:0,AMC
+http://198.144.154.180:10880/live/pt_xRBGDPf12puWsC8kV6FAETNH_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_7rA6WbCpINsv&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=cd234729ac4293b96ec576ebe7962d1d
+
+#EXTINF:0,ANIMAL PLANET
+http://198.144.154.180:10880/live/pt_ZJTh6oMdeOURwWyiA9cHgYQk_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_2FKe1Ch5P8H1&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=4f46db42d12c12285a7c710f25c9d652
+
+#EXTINF:0,AXN
+http://198.144.154.180:10880/live/pt_OHAJwrM6poGAZu6Uj_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_26rtPbOtcyqH&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=5df503451179c20ca3fd10959f0fe9ab
+
+#EXTINF:0,ARTE 1
+http://198.144.154.180:10880/live/pt_OHAJwrM6poGAZu6Uj_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_26rtPbOtcyqH&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=5df503451179c20ca3fd10959f0fe9ab
+
+#EXTINF:0,BABY TV
+http://198.144.154.180:10880/live/pt_aEZNYVBM7gwkXuemhyKdcC62_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_gUW9xWHLfQrw&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=c85ded53c32f0d2200e07cf09e07d024
+
+#EXTINF:0,BAND
+http://198.144.154.180:10880/live/pt_3zFNpotNh0Q0iR_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_hoNjiQIUShJ&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=14065e413b7c7dd3c145c1140e080a69
+
+#EXTINF:0,BAND NEW
+http://198.144.154.180:10880/live/pt_wM1DcpyixXePdVU8F2ogE6KT_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_uOBwUAa2pCE5&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=a9f1a93d0d629e96d18c1b0a992a989d
+
+#EXTINF:0,BAND SPORTS
+http://198.144.154.180:10880/live/pt_JCr0n6KJkWbSR5_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_boMwHcK5hD7c&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=573d7e1090d722575701af2dc92b313f
+
+#EXTINF:0,BIS
+http://198.144.154.180:10880/live/pt_AHRTkrZ8VGUFaC1ctW0db5O6_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_KqumvkmsjggK&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=7441289f99e65b5f6ea17cf6e405b4f4
+
+#EXTINF:0,CINEMAX
+http://198.144.154.180:10880/live/pt_2bJRKdayBWQpTsZ8gPwq6iX0_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_XfWBTxfnwJN&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=1dd5d1162070415c34d364c2eb791507
+
+#EXTINF:0,CN CARTOON 
+http://198.144.154.180:10880/live/pt_JlYXCiFjTPSy5oakKZdEVxBz_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_0I5JInmufy&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=250522e0013de338cc14cf3870411614
+
+#EXTINF:0,COMBATE
+http://198.144.154.180:10880/live/pt_kxiCuVcr9XvcEbXgX_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_QWOtc4wq5YXd&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=c17ebade964961885230325db47b3082
+
+#EXTINF:0,COMEDY CENTRAL
+http://198.144.154.180:10880/live/pt_XypHPFmzuIfLK41oZNncQelA_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_3a2Uc96U6g3w&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=df01f26257a584b17c0606c1e64d2654
+
+#EXTINF:0,DAZN
+http://198.144.154.180:10880/live/pt_AxcB0a3kmQIu4PhbRSGgX56v_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_3PUe9JBlzecU&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=0792cc924ec3faffdb2c5784393e23ef
+
+#EXTINF:0,DISCOCERY
+http://198.144.154.180:10880/live/pt_E3D2EB66-67DF-49EC-8eea_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_9y2Gcf738W5f&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=584e716882937dc92d7e545b0d1b7409
+
+#EXTINF:0,DISCOCERY H&H
+http://198.144.154.180:10880/live/pt_6Ij7gxZOdZwDVlMjlbHc5_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_bO5un3HLGinW&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=545e4076d6b787124ed0ce7011128258
+
+#EXTINF:0,DISCOCERY KIDIS
+http://198.144.154.180:10880/live/pt_afy44nd1fdEvCQ38kIuMe_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_Mewni4KD4pdW&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=af063a81d22ca2e7a3004a102b7c91ef
+
+#EXTINF:0,DISCOCERY THURBO
+http://198.144.154.180:10880/live/pt_NpfZjjxzoFwepkuEspTet_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_rUgYyih6RL05&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=1a5bd10a716e108e76bf6f7001c3fcba
+
+#EXTINF:0,DISNEY JR
+http://198.144.154.180:10880/live/pt_AzuKGRLYDZE6CcOjHQPWdhsV_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_ozqr4b4tQ1c&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=01dcb4f23d082aa42e856639d9e52969
+
+#EXTINF:0,DISNEY XD
+http://198.144.154.180:10880/live/pt_2lt7haK8B0Gm3sDHTzW9eSdF_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_IuCpg8pXmoQp&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=58b246b984b1b2c37e0c732545f1aa2e
+
+#EXTINF:0,E!
+http://198.144.154.180:10880/live/pt_MLyp2YcnBaoNT1DdC3FOsiHE_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_OB4L38KzXMtL&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=f8596bc50dd1beb0387089ca324f8755
+
+#EXTINF:0,ESPN
+http://198.144.154.180:10880/live/pt_ZLeLkHOSgiYq548T_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_RWuSXhVOFPwO&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=44b59e6e56b92d4a27e3de0b39fc697a
+
+#EXTINF:0,ESPN 2
+http://198.144.154.180:10880/live/pt_ZLeLkHOSgiYq548T_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_RWuSXhVOFPwO&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=44b59e6e56b92d4a27e3de0b39fc697a
+
+#EXTINF:0,ESPN BRASIL
+http://198.144.154.180:10880/live/pt_ScQBL06LuJftF_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_ROd0KONMH3hW&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=269d8e5605860b8de4eb6b579bb5af65
+
+#EXTINF:0,ESPN EXTRA
+http://198.144.154.180:10880/live/pt_ScQBL06LuJftF_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_4djXcpIKLdmw&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=5baec13c2dbd6d9100e5f29ae9e23696
+
+#EXTINF:0,FOX
+http://198.144.154.180:10880/live/pt_B7hFXSnaqw2EJk3Ic6pPyi5Y_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_19BG3bCCC1FC&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=9f0892a3dafbbab6db351076b457b397
+
+#EXTINF:0,FOX life
+http://198.144.154.180:10880/live/pt_QYRhDvNfrwCkWyG6K9BSHmPZ_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_mpt0RsRARqt&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=8dc7ef5b0e64ad4ee7f57f07d7a32314
+
+#EXTINF:0,FOX PREMIUM 1
+http://198.144.154.180:10880/live/pt_HErPMBJzfC3aYZ9wAWejul5I_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_X2Ej8ry5y62T&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=79d33a03b3138cf815f804b884909a6d
+
+#EXTINF:0,FOX PREMIUM 2
+http://198.144.154.180:10880/live/pt_JIEtYqlVCm5n1XMdBayLAjNf_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_tYeCcdF0oT0o&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=7cad1f382a6111f2ea194828820fc15e
+
+#EXTINF:0,FOX SPORTS
+http://198.144.154.180:10880/live/pt_AkF7moyJqBpWr5L3ctZXu8D6_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_MAP7WWaf1ldu&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=9000e5b72fda62a1a37a13afa8b4f91b
+
+#EXTINF:0,FOX SPORTS2 HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/foxsports2hd_2a7541ba_ba5f63907cc69cf560fcfcdb74370abe9829237e.m3u8
+
+#EXTINF:0,FOX SPORTS 2
+http://198.144.154.180:10880/live/pt_5jJXtWhS6iP43DGF1porNTkZ_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_kGQi3SY3dBaE&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=2d7e449433146715763f83243a8ac2c7
+
+#EXTINF:0,FX
+http://198.144.154.180:10880/live/pt_5jJXtWhS6iP43DGF1porNTkZ_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_kGQi3SY3dBaE&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=2d7e449433146715763f83243a8ac2c7
+
+#EXTINF:0,GLOBO RS
+http://198.144.154.180:10880/live/cyp_PbKjrzBwE9wRjFgcZWiL_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_2xPyp8NHrKQf&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=19f665f76d1d1e240626d4a51d69025e
+
+#EXTINF:0,GLOBOSAT
+http://198.144.154.180:10880/live/pt_2LIrTCQ1mvJKo4U7Me0sylfz_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_cbfphQLiYRH&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=2b2b81f2fbf75c5cd8de886e04b15648
+
+#EXTINF:0,GLOOB
+http://198.144.154.180:10880/live/pt_NviBsuOXDRg5eThwb46oHUdJ_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_3wgEksxOH3S6&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=1fc458ecd0ac4a8d35727e96ffe43a1b
+
+#EXTINF:0,GLOOBINHO
+http://198.144.154.180:10880/live/pt_Id083Vtv4joDS5CBRwbAQmO2_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_9mp8pBbPRzm&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=126b4dbd304773a03e07daa6dd50e5f4
+
+#EXTINF:0,GNT
+http://198.144.154.180:10880/live/pt_sz5R7Z8PDOtEIxlNHhQa3FrB_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_E9ibNk4QjvD7&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=f596af2fdbb3db839ec4c1cba1ca7db6
+
+#EXTINF:0,HISTORY
+http://198.144.154.180:10880/live/pt_sd6noaLRmHrcTYkGvhOJp0Di_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_RlfxqMmqBC7p&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=31f52d14edb9984a1f700655626b999e
+
+#EXTINF:0,H2
+http://198.144.154.180:10880/live/pt_pyQI062qY3Xe7xTcBLrol9Vk_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_RQpNUyhY5j6I&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=b1d22eb7ee2dcdf6abfbfae5d20ab563
+
+#EXTINF:0,HBO
+http://198.144.154.180:10880/live/pt_zkn1fCBO864eFG2YAhcyvMSK_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_w0OviMoG9Ofn&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=7889094be27ac86238641a99c2fe3f24
+
+#EXTINF:0,HBO 2
+http://198.144.154.180:10880/live/pt_7BFi6mTXRtGkNHln4zqwL3yj_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_MJIHlMgjVQ60&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=4ded0f11847445a8c7e08f9af7738405
+
+#EXTINF:0,HBO PLUS
+http://198.144.154.180:10880/live/pt_7BFi6mTXRtGkNHln4zqwL3yj_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_MJIHlMgjVQ60&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=4ded0f11847445a8c7e08f9af7738405
+
+#EXTINF:0,HBO FAMILY
+http://198.144.154.180:10880/live/pt_12lcPN9AZmu4stMvYfbwLpEC_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_rPhkLXRHnWq&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=af6dfcae27f205dc2dcb1ac45e996d3b
+
+#EXTINF:0,MEGAPIX
+http://198.144.154.180:10880/live/pt_SQrEDhKgRTn3y9wV0Pd1L7O6_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_xeTk1Q2llOnM&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=e67115184fefd8831ee65942ab578e83
+
+#EXTINF:0,MULTISHOW
+http://198.144.154.180:10880/live/pt_xBEDmuNinjXaf4ZHcGkRsr7h_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_8decW1IhrmEW&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=ae78d8953408f99af6064fd8a4200812
+
+#EXTINF:0,MULTISHOW*
+https://live.multicanais.com/mylive/multishowsd/chunks.m3u8?md5=lSlA57Jw1MGfTIu29WEEtw&expires=1571721385
+
+#EXTINF:0,MULTIWHOW HD
+http://149.56.20.224:25461/aovivo/HMQNOZP/585?token=QxNfUxJdGwNDUFYHVFNSVgtdAlVVA1YJVQJQBlJQAQQIAAADBQ0LCgMXSBZDQUEAWFRpXQFHXAxaVEkTQUdXE2dYUxBbFwsbTRcQXV1QEV8IDAEFUlVVDltVSRNEXVZDAhMFBVcMDxtNFwFMRFBBC1hVaVAAEw9aB0NfX0FYXk0aXlltBVBUWA9RRg4SBRFJG1BFREdfCEwODUkTVl1GE1lFUhBbFwsKUgJGGBJWXBBXTURNR19EezBDSRNRTEYEVkJeXQ8XAxsVRkYYElxAOktcRUAXAAdUBxNHCxYFEE0aXFZKPlZWVw9QB0BZWl0WGwMUBEdJRFQNDwxFW0ZtEVFVFQhDDQgJWRcZ
+
+#EXTINF:0,VIVA
+http://198.144.154.180:10880/live/pt_AB7C8CAC-850F-4582_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_mvqmtzAu2rmV&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=d7dff389437a6f957b9c2c2619fc272a
+
+#EXTINF:0,TNT
+http://198.144.154.180:10880/live/pt_hrXYNmAD2GitKZdq5wlHUjJF_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_ccs0l5cLh07y&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=7f00e0e13811ea3445438d4e050a310c
+
+#EXTINF:0,TNT séries
+http://198.144.154.180:10880/live/pt_sRbp5StxJynqjZmGAElF28Br_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_MX4OQoH3D2g&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=e2cdc7182ef1bf0163b4c8834482847b
+
+#EXTINF:0,TELECINE PIPOCA
+http://198.144.154.180:10880/live/pt_KnwJ0by8GYtpiOFVERcWf7Br_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_JU7mSAm7NBc4&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=181da250ee3434abbf9f32617598cc8a
+
+#EXTINF:0,TELECINE PREMIUM
+http://198.144.154.180:10880/live/pt_rGNKj8wgdokTI0x2lReVs1mh_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_gd3zSW7qiwM7&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=63441f8c6491c8299a5a7edf71b1fe97
+
+#EXTINF:0,TELECINE FUN
+http://198.144.154.180:10880/live/pt_BLoVMP46Uef2mWjQO7R9qTFK_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_H3Dvxq2Pf4jC&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=c37654e1dae56579dc6353b61b810f81
+
+#EXTINF:0,TELECINE CULT
+http://198.144.154.180:10880/live/pt_6soPbznmWEaXtBk4L0CK59R2_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_dPB7ySIPSvi4&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=635a9d2fcb20ae4ad937bbd0e1c33501
+
+#EXTINF:0,SPORTV
+http://198.144.154.180:10880/live/pt_exT5vWYFOV4uwkGpSZzEtHLi_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_xRTP3esFDjgm&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=99ce3496de0c14f1868c8dc94f73594e
+
+#EXTINF:0,SPORTV2 HD
+http://edge.aovivo.club/hls/s:95.216.15.44:81/sportv2opcao2_40f7c01f_71666c1544869c1142e8e612e4de2f6d6a0eeb9a.m3u8
+
+#EXTINF:0,SPORTV 2
+http://198.144.154.180:10880/live/pt_ylU0WsVR9po4ChFn7J3vkMxb_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_Gogx6riaJlac&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=608ca8bccc65ffbf7988270e86973382
+
+#EXTINF:0,SPORTV 3
+http://198.144.154.180:10880/live/pt_9DOg0PQW1aF8hTGrmHf6oqkV_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_xmpPRf4ncGm&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=0ec20217bd9812021a578fcc76e00e49
+
+#EXTINF:0,SPACE
+http://198.144.154.180:10880/live/pt_ymZnQGTRxLhgzKBYlOekpfso_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_XPIyolRnvPEa&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=1361e62b6c5c8f08b1e823878f8a4196
+
+#EXTINF:0,SBT
+http://198.144.154.180:10880/live/pt_Ezf6VNvIW51wZLG8xT274n3X_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_2m8QtTKjcA2f&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=8a7dd9c4908134321a47e1f43abdb675
+
+#EXTINF:0,PREMERE CLUBE
+http://167.114.173.170:25461/aovivo/HMQNOZP/585
+
+#EXTINF:0,PREMERE 2
+http://198.144.154.180:10880/live/pt_YfRcGOary1NojqwhvD7_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_JEk5qmAkQX4o&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=bed5e5bf2e471387ed8d6b95a0a65248
+
+#EXTINF:0,PREMERE 3
+http://198.144.154.180:10880/live/pt_QVjAjs05rLeRcJaYwWpr6k_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_mjmekDenQBoT&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=b102aed6ccab3a764ed72f3eef468a55
+
+#EXTINF:0,PREMERE 4
+http://198.144.154.180:10880/live/pt_T1kER2k4toPH_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_NlvmPmgBc97f&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=4fbfcec0a308a94dfd9c9767f327db81
+
+#EXTINF:0,PREMERE 5
+http://198.144.154.180:10880/live/pt_J2m8CmTHvNkE_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_RdFj6wW3sFhC&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=86fb49ae11e3c5e43939590338e6743e
+
+#EXTINF:0,PREMERE 6
+http://198.144.154.180:10880/live/pt_Z60O0vqPgGWm5AZ_480p.ts?user_id=11317454&dev_id=8a3cd536849365c6c0ea967569841732&trans_id=qMwBO4iOD3If_04RDHW3j9Uun&dead_time=1571703548&app_id=com.mobile.brasiltvmobile&host=198.144.154.180:10880&app_ver=20903&client_ip=216.98.214.92&auth_id=11317454m&dev_limit=1&token=d017b28ad4e7bad5b785484de5e1b932
